@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="Sortion_option">
+        <item>@string/Most_popular_default</item>
+        <item>@string/highest_rated</item>
+    </string-array>
+
+</resources>

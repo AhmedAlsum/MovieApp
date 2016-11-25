@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">POPMovie</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="Most_popular_default">most popular</string>
+    <string name="highest_rated">highest-rated</string>
+    <string name="fav">Favorites</string>
+    <string name="popular">Popular movie</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailer">Trailer</string>
+    <string name="title_activity_trailer">Trailer Activity</string>
+    <string name="title_activity_review">Review Activity</string>
+
+</resources>
